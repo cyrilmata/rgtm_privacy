@@ -1,0 +1,46 @@
+Politique de Confidentialité
+
+Dernière mise à jour : [Date]
+
+Votre vie privée est importante pour nous. Cette Politique de Confidentialité explique comment nous collectons, utilisons, partageons et protégeons vos informations personnelles lorsque vous utilisez notre application mobile.
+
+En utilisant notre application, vous consentez à la collecte et à l'utilisation de vos informations conformément à cette politique. Si vous n'acceptez pas les termes de cette politique, veuillez ne pas utiliser l'application.
+
+1. Collecte des Informations
+
+Nous collectons les informations suivantes :
+
+    Nom : Pour identifier les utilisateurs au sein de l'équipage.
+    Adresse e-mail : Pour permettre l'accès à l'application et faciliter la communication au sein de l'équipage.
+    Numéro de téléphone : Facilite la communication au sein de l'équipage et peut être utilisé pour des notifications.
+    Numéro de licence FFV : Si applicable, pour vérifier les qualifications des membres de l'équipage.
+    Mensurations : Si pertinent pour la gestion des équipements de voile.
+    Adresse : Pour des besoins logistiques liés à l'organisation des régates.
+
+2. Utilisation des Informations
+
+Les informations collectées sont utilisées pour :
+
+    Faciliter l'accès et l'utilisation de l'application.
+    Permettre la communication efficace au sein de l'équipage.
+    Vérifier les qualifications des membres de l'équipage le cas échéant.
+    Gérer les équipements de voile de manière optimale.
+    Organiser et coordonner les régates.
+
+3. Partage des Informations
+
+Les informations collectées ne seront partagées qu'entre les membres de l'équipage. Aucune information personnelle ne sera vendue, louée ou partagée avec des tiers sans votre consentement, sauf si requis par la loi.
+
+4. Sécurité des Informations
+
+Nous prenons des mesures de sécurité appropriées pour protéger vos informations personnelles contre tout accès non autorisé, altération, divulgation ou destruction.
+
+5. Accès et Contrôle des Informations
+
+Vous avez le droit d'accéder, de corriger, de mettre à jour ou de supprimer vos informations personnelles. Pour exercer ces droits, veuillez nous contacter à [adresse e-mail de support].
+
+6. Modifications de la Politique de Confidentialité
+
+Nous nous réservons le droit de mettre à jour cette politique de confidentialité à tout moment. Les modifications seront publiées sur cette page avec la date de la dernière mise à jour.
+
+Si vous avez des questions ou des préoccupations concernant cette politique, veuillez nous contacter à [adresse e-mail de contact].
