@@ -1,0 +1,32 @@
+Procédure de Suppression des Informations Personnelles
+
+Pour demander la suppression de vos informations personnelles de notre application, veuillez suivre la procédure ci-dessous :
+
+    Envoyer un E-mail de Demande :
+        Envoyez un e-mail à l'adresse suivante : cyril.mata@gmail.com.
+        Sujet : Demande de Suppression de Compte.
+
+    Inclure les Informations Nécessaires :
+        Dans le corps de l'e-mail, veuillez fournir les informations suivantes pour vérification :
+            Nom d'utilisateur ou nom associé au compte.
+            Adresse e-mail associée au compte.
+
+    Confirmation de la Demande :
+        Nous vous enverrons un e-mail de confirmation pour vérifier que la demande de suppression provient bien de vous.
+
+    Suppression des Informations :
+        Une fois la demande confirmée, toutes les informations personnelles associées à votre compte seront supprimées de manière définitive.
+
+    Aucune Rétention d'Informations :
+        Nous confirmons que toutes les données personnelles, y compris le nom, l'adresse e-mail, le numéro de téléphone, le numéro de licence FFV, les mensurations et l'adresse, seront supprimées. Aucune information ne sera conservée.
+
+    Suppression Définitive :
+        La suppression de votre compte est définitive, et aucune information ne sera conservée dans nos systèmes. Il ne sera pas possible de restaurer les données après la suppression.
+
+Nous nous engageons à traiter votre demande de suppression dans les plus brefs délais. Pour toute question supplémentaire ou assistance, veuillez nous contacter à [adresse e-mail de support].
+
+Merci de votre compréhension et de votre confiance.
+
+Cordialement,
+
+L'équipe de support de votre application
