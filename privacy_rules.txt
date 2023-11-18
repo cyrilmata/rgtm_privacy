@@ -1,6 +1,6 @@
 Politique de Confidentialité
 
-Dernière mise à jour : [Date]
+Dernière mise à jour : 18/11/2023
 
 Votre vie privée est importante pour nous. Cette Politique de Confidentialité explique comment nous collectons, utilisons, partageons et protégeons vos informations personnelles lorsque vous utilisez notre application mobile.
 
@@ -43,4 +43,4 @@ Vous avez le droit d'accéder, de corriger, de mettre à jour ou de supprimer vo
 
 Nous nous réservons le droit de mettre à jour cette politique de confidentialité à tout moment. Les modifications seront publiées sur cette page avec la date de la dernière mise à jour.
 
-Si vous avez des questions ou des préoccupations concernant cette politique, veuillez nous contacter à [adresse e-mail de contact].
+Si vous avez des questions ou des préoccupations concernant cette politique, veuillez nous contacter à cyril.mata@gmail.com.
