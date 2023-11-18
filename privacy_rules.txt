@@ -10,12 +10,12 @@ En utilisant notre application, vous consentez à la collecte et à l'utilisatio
 
 Nous collectons les informations suivantes :
 
-    Nom : Pour identifier les utilisateurs au sein de l'équipage.
+    Nom, Prénom, Genre : Pour identifier les utilisateurs au sein de l'équipage.
     Adresse e-mail : Pour permettre l'accès à l'application et faciliter la communication au sein de l'équipage.
     Numéro de téléphone : Facilite la communication au sein de l'équipage et peut être utilisé pour des notifications.
     Numéro de licence FFV : Si applicable, pour vérifier les qualifications des membres de l'équipage.
-    Mensurations : Si pertinent pour la gestion des équipements de voile.
-    Adresse : Pour des besoins logistiques liés à l'organisation des régates.
+    Mensurations (poids, taille, tour de taille) : Si pertinent pour la gestion des équipements de voile.
+    Adresse et contact à terre : Pour des besoins logistiques liés à l'organisation des régates.
 
 2. Utilisation des Informations
 
