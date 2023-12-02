@@ -1,0 +1,11 @@
+Information d'assistance
+
+Si vous rencontrez des problèmes ou des bugs lors de l'utilisateur de l'application, vous pouvez me contacter a cette adresse mail : cyril.mata@gmail.com
+
+Merci d'indiquer la nature du problème rencontré avec, si possible des captures d'écran et des explications sur la manière de reproduire le problème.
+
+Si vous souhaitez supprimer votre compte, veuillez suivre la procédure indiquer ici : https://github.com/cyrilmata/rgtm_privacy/blob/main/delete_user_data.txt
+Si vous souhaiter plus d'information sur la politique de confidentialité, veuillez vous rendre ici : https://github.com/cyrilmata/rgtm_privacy/blob/main/privacy_rules.txt
+
+Merci,
+L'équipe Regatta Team Manager
