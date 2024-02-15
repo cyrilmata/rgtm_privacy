@@ -1,6 +1,6 @@
 Politique de Confidentialité
 
-Dernière mise à jour : 18/11/2023
+Dernière mise à jour : 15/02/2024
 
 Votre vie privée est importante pour nous. Cette Politique de Confidentialité explique comment nous collectons, utilisons, partageons et protégeons vos informations personnelles lorsque vous utilisez notre application mobile.
 
@@ -16,6 +16,7 @@ Nous collectons les informations suivantes :
     Numéro de licence FFV : Si applicable, pour vérifier les qualifications des membres de l'équipage.
     Mensurations (poids, taille, tour de taille) : Si pertinent pour la gestion des équipements de voile.
     Adresse et contact à terre : Pour des besoins logistiques liés à l'organisation des régates.
+    Information médical (groupe sanguin, allérgie, traitement en cours) : En cas d'urgence à bord, pour assurer la sécurité des membres de l'équipage.
 
 2. Utilisation des Informations
 
@@ -29,15 +30,14 @@ Les informations collectées sont utilisées pour :
 
 3. Partage des Informations
 
-Les informations collectées ne seront partagées qu'entre les membres de l'équipage. Aucune information personnelle ne sera vendue, louée ou partagée avec des tiers sans votre consentement, sauf si requis par la loi.
+Toutes les données collectées seront utilisées exclusivement à des fins internes et ne seront pas partagées à des fins commerciales ou avec des tiers externes. Les informations médicales seront accessibles uniquement aux membres de l'équipage concerné pour garantir une intervention médicale appropriée en cas d'urgence. Les informations collectées ne seront partagées qu'entre les membres de l'équipage. Aucune information personnelle ne sera vendue, louée ou partagée avec des tiers sans votre consentement, sauf si requis par la loi.
 
 4. Sécurité des Informations
 
-Nous prenons des mesures de sécurité appropriées pour protéger vos informations personnelles contre tout accès non autorisé, altération, divulgation ou destruction.
+Nous prenons des mesures de sécurité appropriées pour protéger vos informations personnelles. Les données collectées seront stockées de manière sécurisée sur des serveurs protégés. Nous mettons en place des mesures de sécurité appropriées pour éviter tout accès non autorisé, divulgation, altération ou destruction des données.
 
-5. Accès et Contrôle des Informations
-
-Vous avez le droit d'accéder, de corriger, de mettre à jour ou de supprimer vos informations personnelles. Pour exercer ces droits, veuillez nous contacter à [adresse e-mail de support].
+5. Durée de Conservation des Données
+Les données seront conservées aussi longtemps que l'utilisateur sera actif sur l'Application. Vous avez le droit d'accéder, de corriger, de mettre à jour ou de supprimer vos informations personnelles sur votre page de profil. L'utilisateur a le droit de demander la suppression de ses données de manière permanente en résiliant son compte. Pour ce faire, veuillez nous contacter à l'adresse suivante : cyril.mata@gmail.com
 
 6. Modifications de la Politique de Confidentialité
 
