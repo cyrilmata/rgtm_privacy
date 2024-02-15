@@ -16,7 +16,7 @@ Nous collectons les informations suivantes :
     Numéro de licence FFV : Si applicable, pour vérifier les qualifications des membres de l'équipage.
     Mensurations (poids, taille, tour de taille) : Si pertinent pour la gestion des équipements de voile.
     Adresse et contact à terre : Pour des besoins logistiques liés à l'organisation des régates.
-    Information médical (groupe sanguin, allérgie, traitement en cours) : En cas d'urgence à bord, pour assurer la sécurité des membres de l'équipage.
+    Information médical (groupe sanguin, allérgies, traitements en cours) : En cas d'urgence à bord, pour assurer la sécurité des membres de l'équipage.
 
 2. Utilisation des Informations
 
